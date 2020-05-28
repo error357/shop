@@ -1,0 +1,12 @@
+shop357\OrderRepository.class
+shop357\OrderController.class
+shop357\AbstractEvent.class
+shop357\AbstractEvent$1.class
+shop357\PolicyHandler.class
+shop357\external\Cancellation.class
+shop357\Order.class
+shop357\Ordered.class
+shop357\external\CancellationService.class
+shop357\OrderCanceled.class
+shop357\Application.class
+shop357\config\kafka\KafkaProcessor.class
